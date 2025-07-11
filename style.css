@@ -146,9 +146,9 @@ nav a.active, nav a:hover {
 }
 
 .carousel-simple img {
-  width: 340px;
-  height: 200px;
-  border-radius: 16px;
+  width: 500px;         
+  height: 300px;         
+  border-radius: 10px;   
   object-fit: cover;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
   border: 2px solid #f0f0f0;
@@ -157,6 +157,7 @@ nav a.active, nav a:hover {
   margin: 0 4px;
   transition: transform 0.2s;
 }
+
 
 .carousel-simple img:hover {
   transform: scale(1.04);
